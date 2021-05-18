@@ -28,6 +28,7 @@ class ChangeState extends React.Component{
                 <li>{this.state.color}</li>
             </ul>
             <button onClick={this.changeLaptop}>Change</button>
+            <p>Assalomu aleykum qadrli dasturchi biz sizni malakangizni tekshirish maqsadida..</p>
             </>
         )
     }
